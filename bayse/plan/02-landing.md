@@ -1,6 +1,6 @@
 # 02 — Pre-Launch Landing Page
 
-<!-- Plan Status: 🔲 Not Started -->
+<!-- Plan Status: 🟢 Completed -->
 
 ## Overview
 This plan covers the initialization and building of the Notradar pre-launch landing page. The goal is to set up a professional Next.js + TypeScript + Tailwind CSS project, configure Git and link it to the remote GitHub repository, and build a high-fidelity single-page web app with waitlist email collection (saved to a local `waitlist.json` file) and brand styling.

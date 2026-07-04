@@ -11,7 +11,7 @@ Plans are numbered in execution order. Complete each plan before moving to the n
 | # | Plan | Description | Status |
 |---|------|-------------|--------|
 | 01 | [Brand Foundation](./01-brand.md) | Design system, logos, color palette, typography, brand guidelines. Sets the visual identity before any code is written. | 🔲 Not Started |
-| 02 | [Pre-Launch Landing](./02-landing.md) | A single-page website announcing the product. Email waitlist collection, social links, and a teaser of what's coming. | 🔲 Not Started |
+| 02 | [Pre-Launch Landing](./02-landing.md) | A single-page website announcing the product. Email waitlist collection, social links, and a teaser of what's coming. | 🟢 Completed |
 | 03 | [MVP Build & Launch](./03-mvp.md) | Phase 1 features: Leaderboard, Market Browser, Onboarding, Multi-Currency, Dark/Light Mode, Mobile Responsive. The first public release. | 🔲 Not Started |
 | 04 | [Feature Growth](./04-growth.md) | Phase 2→5 features added incrementally: Trader Profiles, Copy Trading, Whale Tracker, AI Agent, Pro Terminal, Billing & Subscriptions. | 🔲 Not Started |
 | 05 | [Polish & Feedback](./05-polish.md) | User feedback cycles, bug fixes, performance optimization, security audit, accessibility review. Ensuring production-grade quality. | 🔲 Not Started |
